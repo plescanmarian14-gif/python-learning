@@ -1,0 +1,6 @@
+a=int(input("Say two numbers: "))
+b=int(input("Say two numbers: "))
+print(a//b)
+print(a/b)
+print(a%b)
+print(a**b)
