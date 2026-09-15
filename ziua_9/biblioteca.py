@@ -15,7 +15,7 @@ class Biblioteca:
 
         c3 = Revista("Marian", "Paul", True, 3)
         self.materiale.append(c3)  # Corectat din c2 în c3
-    
+
 
 
 # Exemplu de utilizare:
