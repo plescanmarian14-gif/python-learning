@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc7157b1-915f-4852-8d1a-82c1145131f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ziua_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/.idea/ziua_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/bmi_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/calculator_simplu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/convertor_temperaturi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/is_par_impar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/.idea/ziua_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/clasificator_note.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/gaseste_maxim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/gestionar_sarcini.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/lista_cumparaturi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_2/verificare_admitere.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/.idea/ziua_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/agenda_contacte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/contor_cuvinte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/ghiceste_numarul.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/inventar_magazin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_3/tabla_inmultire.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/.idea/ziua_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/convertor_functii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/functii_matematice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/inventar_magazin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/salut_personalizat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_4/statistici_lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/.idea/ziua_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/analiza_propozitie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/comprehension_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/contor_cuvinte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_5/curatare_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/.idea/ziua_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/biblioteca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/clasa_contor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/clasa_dreptunghi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/clasa_masina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/clasa_student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_6/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/.idea/ziua_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/biblioteca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/clasa_angajati.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/clasa_forme.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/clasa_vehicule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ziua_7/polimorfism_animale.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3JN2phP1IuSctDXiM4vQ7heOJVt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.generator_fibonacci.executor": "Run",
+    "Python.generator_vs_lista.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.map_filter_combo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Admin/Documents/New folder/python-learning/ziua_10"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\New folder\python-learning\ziua_10" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc7157b1-915f-4852-8d1a-82c1145131f8" name="Changes" comment="" />
+      <created>1789487389671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789487389671</updated>
+    </task>
+    <servers />
+  </component>
+</project>
