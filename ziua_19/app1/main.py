@@ -7,4 +7,3 @@ app=FastAPI(title="Tastaturi online")
 
 app.include_router(tastaturi.router)
 
-@app
